@@ -1,3 +1,3 @@
-# Pizzaria-Luana-Coin
+#Projetos Faculdade
 
-Esse projeto foi desenvolvido para um trabalho na faculdade em lingueguem python.
+Esses projetos foram desenvolvido para trabalhos na faculdade em lingueguem python.
